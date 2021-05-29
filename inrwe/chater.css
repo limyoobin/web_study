@@ -1,0 +1,18 @@
+h1p{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+
+.center {
+    text-align: right;
+    color: blue;
+    font-size: 20px;
+}
+
+#center{
+    text-align: left;
+    color: brown;
+}
+
+/* 주석 */
