@@ -1,20 +1,24 @@
-h1.p{
-    text-align: center;
-    color: red;
-    font-size: 30px;
+body{
+    font-size:15px;
+    line-height: 1.6em;
+}
+h1{
+    color: blueviolet;
+    font-weight: normal;
+    text-decoration: line-through;
 }
 
-.center {
-    text-align: right;
-    color: blue;
-    font-size: 20px;
+a{
+    text-decoration: none;
+}
+p.text{
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+
 }
 
-#center{
-    text-align: left;
-    color: brown;
-}   
-
-
-/* 주석 */
-
+p.pop{
+    text-transform: uppercase;
+    
+}
