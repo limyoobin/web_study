@@ -1,4 +1,4 @@
-h1p{
+h1.p{
     text-align: center;
     color: red;
     font-size: 30px;
@@ -13,6 +13,8 @@ h1p{
 #center{
     text-align: left;
     color: brown;
-}
+}   
+
 
 /* 주석 */
+
